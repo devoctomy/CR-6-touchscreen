@@ -14,8 +14,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="39_E_printresume.svg"
-   inkscape:export-filename="D:\Source\GitHub\CR-6-touchscreen\src\images_vectors\PNG\29_E_printresume.png"
+   sodipodi:docname="37_E_printing.svg"
+   inkscape:export-filename="D:\Source\GitHub\CR-6-touchscreen\src\images_vectors\PNG\37_E_printing.png"
    inkscape:export-xdpi="25.4023"
    inkscape:export-ydpi="25.4023">
   <defs
@@ -1019,7 +1019,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6383073"
-     inkscape:cx="287.63576"
+     inkscape:cx="514.01575"
      inkscape:cy="907.08661"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1030,10 +1030,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     inkscape:window-width="1922"
+     inkscape:window-width="2013"
      inkscape:window-height="1348"
      inkscape:window-x="126"
-     inkscape:window-y="20"
+     inkscape:window-y="13"
      inkscape:window-maximized="0"
      gridtolerance="10">
     <inkscape:grid
@@ -1104,7 +1104,7 @@
          id="tspan880"
          x="-8.1427078"
          y="-31.604593"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;stroke-width:0.264583">Paused</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;stroke-width:0.264583">Printing</tspan></text>
     <rect
        y="-16.704269"
        x="-22.431162"
@@ -1380,14 +1380,14 @@
     <text
        id="TitleBarText-9-8-21"
        y="279.51007"
-       x="98.28199"
+       x="93.519485"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          y="279.51007"
-         x="98.28199"
+         x="93.519485"
          id="tspan880-1-2-3"
-         sodipodi:role="line">Print</tspan></text>
+         sodipodi:role="line">Pause</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -1399,26 +1399,6 @@
          x="184.28908"
          y="279.54517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-opacity:1">Stop</tspan></text>
-    <g
-       id="g1270"
-       transform="translate(-277.01875,11.37708)">
-      <path
-         transform="matrix(0.26458333,0,0,0.26458333,-22.630659,-56.656353)"
-         d="m 1565.9727,970 a 68,68 0 0 0 -67.9727,68 68,68 0 0 0 68,68 68,68 0 0 0 38.1582,-11.7168 l -13.8359,-13.2344 a 49.998504,49.998504 0 0 1 -25.2481,6.8438 49.998504,49.998504 0 0 1 -50,-49.9981 49.998504,49.998504 0 0 1 49.9473,-49.99997 49.998504,49.998504 0 0 1 0.053,0 49.998504,49.998504 0 0 1 49.9981,49.99997 49.998504,49.998504 0 0 1 -7.5411,26.4043 l 13.8126,13.2129 A 68,68 0 0 0 1634,1038 a 68,68 0 0 0 -68,-68 68,68 0 0 0 -0.027,0 z"
-         style="opacity:1;fill:url(#linearGradient1233);fill-opacity:1;stroke:#040000;stroke-width:3.77953;stroke-opacity:1;filter:url(#filter1253)"
-         id="path1188" />
-      <g
-         style="stroke:#040000;stroke-opacity:1;filter:url(#filter1265)"
-         transform="matrix(0.93442798,0,0,0.70216344,371.52953,200.46777)"
-         id="g3">
-        <path
-           style="stroke:#040000;stroke-opacity:1"
-           id="path1-3"
-           transform="matrix(0.8125001,0,0,0.8125001,14.797624,11)"
-           fill="#ffffff"
-           d="M 0,0 22.652,15.996998 0,31.999996 Z" />
-      </g>
-    </g>
     <g
        id="g1347"
        style="filter:url(#filter1359)">
@@ -1465,6 +1445,19 @@
            id="path1373"
            sodipodi:nodetypes="cccc" />
       </g>
+    </g>
+    <g
+       id="g1173">
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,-299.64941,-45.279273)"
+         d="m 1565.9727,970 a 68,68 0 0 0 -67.9727,68 68,68 0 0 0 68,68 68,68 0 0 0 38.1582,-11.7168 l -13.8359,-13.2344 a 49.998504,49.998504 0 0 1 -25.2481,6.8438 49.998504,49.998504 0 0 1 -50,-49.9981 49.998504,49.998504 0 0 1 49.9473,-49.99997 49.998504,49.998504 0 0 1 0.053,0 49.998504,49.998504 0 0 1 49.9981,49.99997 49.998504,49.998504 0 0 1 -7.5411,26.4043 l 13.8126,13.2129 A 68,68 0 0 0 1634,1038 a 68,68 0 0 0 -68,-68 68,68 0 0 0 -0.027,0 z"
+         style="fill:url(#linearGradient1233);fill-opacity:1;stroke:#040000;stroke-width:3.77953;stroke-opacity:1;filter:url(#filter1253)"
+         id="path1188" />
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,-22.630659,-56.656353)"
+         d="M 493.00391 1057 L 493.00391 1109 L 515 1109 L 515 1057 L 493.00391 1057 z M 524 1057 L 524 1109 L 545.00391 1109 L 545.00391 1057 L 524 1057 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-opacity:1"
+         id="rect1344-8" />
     </g>
   </g>
 </svg>
