@@ -5,13 +5,29 @@ You can open the .dgus project file in the [`src\DWIN`](src\DWIN) folder:
 
 ![DGUS II interface](doc/dgus2util.png)
 
-## Images / screen images sources
+## Documentation for development
+### Build firmware archive
+
+To build a firmware archive for distribution, use the `build.cmd` script.
+
+### Images / screen images sources
 
 You can find the source files where the screen bitmaps are generated from in the [`src\images_src`](src\images_src) folder.
 
-## How buttons are handled with code
+To update the BMP of a screen put the **generated BMP file you made with your image editor** in the [`src\DWIN\DWIN_SOURCE`](src\DWIN\DWIN_SOURCE) folder. 
 
-This picture says it all:
+#### Updating the touch screen firmware
+It will be picked up automatically by the build process of DWIN when saving or generating the project.
+
+Next, re-generate the `32_Screen.icl` ICL file are follows:
+
+![Update ICL file](doc/update-screen-icl.gif)
+
+As you can note, you update it in both DWIN_SET and ICONS. The first is what goes to the touch screen, the latter is what the IDE uses (apparently).
+
+### How buttons are handled with code
+
+In the currently - not yet cleaned up - source code of the touch screen handling in Marlin, the events of the touch screen are handled in certain way. This may change when we further refine the code. This picture says it all:
 
 ![DWIN button-code correlation](doc/button_type.png)
 
@@ -19,7 +35,11 @@ How the code currently works is that there is an `AddrBuf` array that contains t
 
 Virtual Pointer addresses are shared between buttons, so the "Key Data" is used to distinguish between the actual key pressed.
 
-## Other documentation
+### Touch screen configuration
+
+The touch screen configuration file "T5LCFG_272480.CFG" has its specification describer in [T5L_DGUSII Application Development Guide20200902.pdf](./docs/vendor/T5L_DGUSII%20Application%20Development%20Guide20200902.pdf) chapter 4. You can use an editor like HxD to explore and edit it (with caution!).
+
+### Other documentation
 
 Vendor documentation is mirrored to the [doc/vendor](doc/vendor) folder.
 
