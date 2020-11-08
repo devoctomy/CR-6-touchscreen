@@ -14,8 +14,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="58_heating_failed.svg"
-   inkscape:export-filename="D:\Source\GitHub\CR-6-touchscreen\src\images_vectors\PNG\58_heating_failed.png"
+   sodipodi:docname="62_abnormal.svg"
+   inkscape:export-filename="D:\Source\GitHub\CR-6-touchscreen\src\images_vectors\PNG\62_abnormal.png"
    inkscape:export-xdpi="25.4023"
    inkscape:export-ydpi="25.4023">
   <defs
@@ -1001,7 +1001,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.56843041"
      inkscape:cx="534.29291"
-     inkscape:cy="1007.0515"
+     inkscape:cy="897.80462"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1011,10 +1011,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     inkscape:window-width="1765"
+     inkscape:window-width="1509"
      inkscape:window-height="1318"
-     inkscape:window-x="190"
-     inkscape:window-y="48"
+     inkscape:window-x="323"
+     inkscape:window-y="45"
      inkscape:window-maximized="0"
      gridtolerance="10">
     <inkscape:grid
@@ -1035,7 +1035,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1104,35 +1104,25 @@
        x="116.52763"
        y="167.25238"
        id="TitleBarText-9-8-8-5-6-0"><tspan
-         id="tspan1146"
+         id="tspan1034"
          sodipodi:role="line"
          x="116.52763"
          y="167.25238"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">Heating of either nozzle or</tspan><tspan
-         id="tspan1150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">An unhandled exception</tspan><tspan
+         id="tspan1038"
          sodipodi:role="line"
          x="116.52763"
          y="187.04025"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">bed failed to reach the</tspan><tspan
-         id="tspan1152"
-         sodipodi:role="line"
-         x="116.52763"
-         y="206.82812"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">required temperature</tspan><tspan
-         sodipodi:role="line"
-         x="116.52763"
-         y="226.61601"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1"
-         id="tspan1786">within time.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">occurred.</tspan><tspan
          id="tspan1126"
          sodipodi:role="line"
          x="116.52763"
-         y="246.40388"
+         y="206.82812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1" /><tspan
          id="tspan1104"
          sodipodi:role="line"
          x="116.52763"
-         y="266.19177"
+         y="226.61601"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8303px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.215867;stroke-opacity:1">Power cycle your printer.</tspan></text>
   </g>
 </svg>
